@@ -177,3 +177,8 @@ Refine là một framework mạnh mẽ giúp tăng tốc phát triển ứng d�
 """,
     unsafe_allow_html=True,
 )
+with tab2:
+    st.markdown(
+        "This report does not have a demo yet",
+        unsafe_allow_html=True,
+    )
