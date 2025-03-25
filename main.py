@@ -55,8 +55,7 @@ st.markdown(
     )
 st.markdown("#### **F-Code authors:**")
 st.write("""
-        - *Phạm Hoàng Tuấn - SE200947*
-        - *Võ Đức Trí - SE204214*
+        - *Bùi Phan Long - SE170607*
     """)
 
 st.markdown(
