@@ -104,14 +104,14 @@ Một dự án Refine điển hình gồm các thành phần chính:
 
 ### 3.2. Cách sử dụng Refine
 
-*Cài đặt Refine*
+**Cài đặt Refine**
 ![Ảnh minh họa](https://github.com/KietPham-VN/TeachAwayRefineFramework/blob/main/assets/images/4.png?raw=true)
 
 Khi cài đặt ứng dụng sẽ có hỏi là thêm ví dụ minh họa, trong trường hợp bạn xác nhận “Yes” thì mọi thứ đã được cài sẵn và công việc của bạn chỉ là ngồi đọc source code và tinh chỉnh sao cho hợp lý.
 
 Trong trường hợp bạn lỡ tay hoặc vô tình nhấn  “No” thì dưới đây là cách để cài đặt cho dự án:
 
-*Tích hợp thư viện và tùy chỉnh router*
+**Tích hợp thư viện và tùy chỉnh router**
 
 ![Ảnh minh họa](https://github.com/KietPham-VN/TeachAwayRefineFramework/blob/main/assets/images/5.png?raw=true)
 
