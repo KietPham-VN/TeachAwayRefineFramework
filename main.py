@@ -33,21 +33,8 @@ st.write(
 # Sidebar
 with st.sidebar:
     st.header("Nội dung bài viết")
-    source_vid = st.sidebar.write(
-        """
-    <style>
-        .toc {
-            background-color: #0E1117;
-            border-radius: 10px;
-        }
-        .toc p {
-            font-size: 15px;
-            margin: 0;
-            padding: 10px;
-            cursor: pointer;
-            z-index: 2;
-        }
-    </style>
+    st.markdown(
+    """
     <div class="toc">
         <p>1. Giới thiệu</p>
         <p>2. Các kiến thức, khái niệm cơ bản</p>
