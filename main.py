@@ -49,17 +49,17 @@ with st.sidebar:
         unsafe_allow_html=True,
     )
 
-    st.markdown(
+st.markdown(
         "<h2 style='color: #FFC81B;'>F-Code [Techaway 2025]</h2>",
         unsafe_allow_html=True,
     )
-    st.markdown("#### **F-Code authors:**")
-    st.write("""
+st.markdown("#### **F-Code authors:**")
+st.write("""
         - *Phạm Hoàng Tuấn - SE200947*
         - *Võ Đức Trí - SE204214*
     """)
 
-    st.markdown(
+st.markdown(
     """
 # Giới thiệu về Framework Refine: Một Giải pháp Hiệu Quả cho Ứng dụng Quản lý
 
