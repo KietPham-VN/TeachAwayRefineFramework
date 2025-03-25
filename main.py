@@ -49,10 +49,6 @@ with st.sidebar:
         unsafe_allow_html=True,
     )
 
-# Tab
-tab1, tab2 = st.tabs(["Bài Đăng", "Demo"])
-
-with tab1:
     st.markdown(
         "<h2 style='color: #FFC81B;'>F-Code [Techaway 2025]</h2>",
         unsafe_allow_html=True,
@@ -164,8 +160,3 @@ Refine là một framework mạnh mẽ giúp tăng tốc phát triển ứng d�
 """,
     unsafe_allow_html=True,
 )
-with tab2:
-    st.markdown(
-        "This report does not have a demo yet",
-        unsafe_allow_html=True,
-    )
